@@ -1,0 +1,87 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing:border-box;
+}
+
+body{
+    margin: 0%;
+}
+
+
+
+.container{
+        text-align: center;
+}
+
+
+.music-icon{
+    color:#b80707;
+}
+
+.music-icon:hover{
+     color: #E9896A;
+}
+
+.heading-main{
+    font-size: 3rem;
+    text-decoration: none;
+    color: #0A043C;
+}
+
+.heading-main:hover{
+    transform: rotate(5deg);
+    color: #E9896A;
+}
+
+.heading-txt{
+    display: block;
+    font-size: 0.9rem; 
+}
+
+.nav-link{
+    margin:10px;
+    font-size: 1.2rem;
+}
+
+.navbar-toggler:hover{
+    color:pink;
+}
+
+hr{
+    margin-bottom: 0%;
+}
+
+.hero{
+
+    text-align: center;
+    padding:0%;
+    padding-top: 5%;
+    width:100vw;
+    height: 30vh;
+    background-image: url("../images/hero-img.jpg");
+}
+
+.hero-h1{
+    background-color: #0A043C;
+    color: white;
+
+}
+
+.video{
+
+    width:560px;
+    height:315px;
+    margin: 20px;
+    box-shadow: 10px 10px #FFC93C;
+}
+
+.row{
+    text-align: center;
+}
+
+.music-title{
+    font:2rem;
+    margin-top:15%;
+}
